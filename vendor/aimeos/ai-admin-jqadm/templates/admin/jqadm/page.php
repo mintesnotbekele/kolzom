@@ -143,7 +143,7 @@ $after = is_array( $after ) ? $after['_'] ?? reset( $after ) : $after;
 					<li class="treeview menuitem-site <?= $before === null ? 'before' : '' ?>">
 						<a class="item-group" href="#">
 							<i class="icon"></i>
-							<span class="title"><?= $enc->html( $this->site()->label() ) ?></span>
+							<span class="title">OUR Vendors</span>
 						</a>
 						<div class="tree-menu-wrapper">
 							<div class="menu-header">
