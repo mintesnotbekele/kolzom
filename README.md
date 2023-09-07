@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://aimeos.org/">
         <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="center" />
@@ -259,3 +260,6 @@ is available for free.
 * [Issue tracker](https://github.com/aimeos/aimeos/issues)
 * [Composer packages](https://packagist.org/packages/aimeos/aimeos)
 * [Source code](https://github.com/aimeos/aimeos)
+=======
+# kolzom
+>>>>>>> c37617200ec20d228af95fb9baf2eb15820c89f5
